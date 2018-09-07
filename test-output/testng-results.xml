@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23071" started-at="2018-09-07T19:30:08Z" finished-at="2018-09-07T19:30:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23071" started-at="2018-09-07T19:30:08Z" finished-at="2018-09-07T19:30:31Z">
+      <class name="core.HomeworkSession8.SouthWestAdvancedSearhTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:core.HomeworkSession8.SouthWestAdvancedSearhTest@1a968a59]" name="setUp" is-config="true" duration-ms="3227" started-at="2018-09-07T19:30:08Z" finished-at="2018-09-07T19:30:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="southWestAdvancedSearch()[pri:0, instance:core.HomeworkSession8.SouthWestAdvancedSearhTest@1a968a59]" name="southWestAdvancedSearch" duration-ms="19826" started-at="2018-09-07T19:30:12Z" finished-at="2018-09-07T19:30:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- southWestAdvancedSearch -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:core.HomeworkSession8.SouthWestAdvancedSearhTest@1a968a59]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-09-07T19:30:31Z" finished-at="2018-09-07T19:30:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- core.HomeworkSession8.SouthWestAdvancedSearhTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
